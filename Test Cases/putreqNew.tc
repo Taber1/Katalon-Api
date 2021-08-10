@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>putreqNew</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9e4a0e5-c87d-4da1-af3b-0209d5d48ac3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92f56e86-13cf-4f47-9e41-8c124da69269</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
